@@ -10,8 +10,8 @@
 
 # What Is This
 
-This is a chrome extension to bypass login popup on websites.
-Works with anysite has a 'login to continue popup' that the website is set in plugin.
+This is a chrome/firefox extension to bypass login popup on websites.
+Works with any site that has a 'login to continue popup' and the website is set in plugin.
 
 # Support Request
 You can request adding websites to bypass by making an issue with **support** label
@@ -24,12 +24,17 @@ You can request adding websites to bypass by making an issue with **support** la
 4. Drag and drop the crx file (downloaded on step 1) onto extensions page.
 5. Enable the plugin and enjoy.
 
+## Mozilla Firefox
+1. Go to [add-on's page](https://addons.mozilla.org/firefox/addon/login-popup-blocker/).
+2. Click on `Add to Firefox` button and wait for installation.
+3. Enable the plugin and enjoy.
+
 # Usage
-Goto chrome extensions page and enable the extension, it will work on enabled webapps.
+Goto browser's extensions page and enable the plugin, it will work on enabled webapps.
 
 # Manage Apps
-1. Goto extension's options
-2. You will see list of supported apps, enable/disable apps by option on right side
+1. Goto plugin options page.
+2. You will see list of supported apps, enable/disable apps by switch on right side.
 
 # Manage Current Website
 1. Click the infinity icon from extensions section (right side of address-bar)
