@@ -1,4 +1,4 @@
-# Pinterest/Dribbble/Quora/Jobinja Login Popup Bypass
+# Pinterest/Dribbble/Quora/Jobinja/Instagram Login Popup Bypass
 
 **Content Table**
 - [What's this](#what-is-this)
@@ -7,6 +7,7 @@
 - [How to use](#usage)
 - [Manage apps](#manage-apps)
 - [Manage current tab](#manage-current-website)
+- [Supported Web-sites](#supported-sites)
 
 # What Is This
 
@@ -42,6 +43,13 @@ Goto browser's extensions page and enable the plugin, it will work on enabled we
 2. If the app is supported by plugin you'll see it's info otherwise you see a `NOTHING FOUND!` message.
 3. Enable/Disable bypassing popup dialog by the switch option.
 4. Click on refresh button to refresh the page and apply changes.
+
+# Supported Sites
+1. Pinterest
+2. Dribbble
+3. Quora
+4. Jobinja
+5. Instagram
 
 ## Don't forget staring repo
 Thanks for using this project ♥
