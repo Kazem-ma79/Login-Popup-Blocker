@@ -19,10 +19,11 @@ You can request adding websites to bypass by making an issue with **support** la
 # Installation
 ## Google Chrome
 1. Download latest release from this repo's [Release](https://github.com/Kazem-ma79/Login-Popup-Blocker/releases) page.
-2. Open chrome extensions page (`chrome://extensions`).
-3. Enable developer mode (at top-right).
-4. Drag and drop the crx file (downloaded on step 1) onto extensions page.
-5. Enable the plugin and enjoy.
+2. Unpack downloaded zip file.
+3. Open chrome extensions page (`chrome://extensions`).
+4. Enable developer mode (at top-right).
+5. Click `Load unpacked` and select the folder where unpacked zip to.
+6. Enable the plugin and enjoy.
 
 ## Mozilla Firefox
 1. Go to [add-on's page](https://addons.mozilla.org/firefox/addon/login-popup-blocker/).
