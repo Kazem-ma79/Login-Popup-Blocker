@@ -19,7 +19,7 @@ You can request adding websites to bypass by making an issue with **support** la
 
 # Installation
 ## Google Chrome
-1. Download latest release from this repo's [Release](https://github.com/Kazem-ma79/Login-Popup-Blocker/releases) page.
+1. Download latest release from this repo's [Release](https://github.com/ImAgentW/Login-Popup-Blocker/releases) page.
 2. Unpack downloaded zip file.
 3. Open chrome extensions page (`chrome://extensions`).
 4. Enable developer mode (at top-right).
